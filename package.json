@@ -1,0 +1,16 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "This app is a test.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Niroj Maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd-number": "^1.0.0",
+    "nodemon": "^3.1.7"
+  },
+  "type":"module"
+}
